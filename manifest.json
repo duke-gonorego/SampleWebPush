@@ -1,0 +1,12 @@
+{
+  "name": "web push test",
+  "short_name": "wpt",
+  "icons": [{
+    "src": "icon image path or url",
+    "sizes": "300x300",
+    "type": "image/png"
+  }],
+  "start_url": "web application url",
+  "display": "standalone",
+  "gcm_sender_id": "gcm number"
+}
